@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2bbe5ccb3de7281498684f16bdfa1671
+timeCreated: 1449222702
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RestartButton: {instanceID: 0}
+  - QuitButton: {instanceID: 0}
+  - GameTitle: {instanceID: 0}
+  - GameOverTitle: {instanceID: 0}
+  - PlayButton: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - Enemy: {instanceID: 0}
+  - enemy2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
